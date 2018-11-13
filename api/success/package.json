@@ -1,0 +1,12 @@
+{
+  "name": "success",
+  "scripts": {
+    "dev": "micro-dev"
+  },
+  "devDependencies": {
+    "micro-dev": "3.0.0"
+  },
+  "dependencies": {
+    "micro": "9.3.3"
+  }
+}
