@@ -7,6 +7,6 @@
     "micro-dev": "3.0.0"
   },
   "dependencies": {
-    "micro": "9.3.4"
+    "micro": "10.0.1"
   }
 }
