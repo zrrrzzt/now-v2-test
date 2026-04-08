@@ -4,7 +4,7 @@
     "dev": "micro-dev"
   },
   "devDependencies": {
-    "micro-dev": "3.0.0"
+    "micro-dev": "3.1.0"
   },
   "dependencies": {
     "micro": "9.3.4"
